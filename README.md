@@ -1,1 +1,1 @@
-This is a tableau dashboard that i ctreated for aliq company database
+This is a tableau dashboard that i created for aliq company database
